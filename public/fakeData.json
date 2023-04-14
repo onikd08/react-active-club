@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "exerciseName": "Dumble",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "ageGroup": "20-25",
+    "timeRequired": 30
+  },
+  {
+    "id": 2,
+    "exerciseName": "Push Up",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "ageGroup": "20-25",
+    "timeRequired": 30
+  },
+  {
+    "id": 3,
+    "exerciseName": "Back Flip",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "ageGroup": "20-25",
+    "timeRequired": 30
+  },
+  {
+    "id": 4,
+    "exerciseName": "Upper Thigh",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "ageGroup": "20-25",
+    "timeRequired": 30
+  }
+]

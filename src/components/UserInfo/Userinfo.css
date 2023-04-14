@@ -1,0 +1,11 @@
+.userinfo {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 30px;
+}
+
+.userinfo-container {
+  background-color: aliceblue;
+  margin: 35px 35px 0 0;
+  border-radius: 25px;
+}
